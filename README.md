@@ -1,0 +1,2 @@
+# sosa
+ticker is $SOSA
